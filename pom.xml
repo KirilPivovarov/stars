@@ -10,9 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>unit1_base</module>
-        <module>randomizer</module>
         <module>firstPractice</module>
         <module>firstPractice</module>
+        <module>random_input</module>
     </modules>
 
     <properties>
